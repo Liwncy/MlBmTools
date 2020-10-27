@@ -256,7 +256,7 @@ if (device.width == 1440 && device.height == 3120) {
 } else if (device.width == 1080 && device.height == 2340) {
     var clickx_pos = [550, 790, 1027, 1266, 1505, 1744, 1980];
     var clicky_pos = [955, 818, 680];
-}else if (device.width == 1080 && device.height == 2280) {
+}else if (device.width == 1080 && device.height == 2244) {
     var clickx_pos=[396,666,938,1216,1484,1756,2025];
     var clicky_pos=[987,876,766];
 }else if (device.width == 1080 && device.height == 2160) {
